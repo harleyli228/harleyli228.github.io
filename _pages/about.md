@@ -45,4 +45,12 @@ In my free time, I enjoy art and music; I play a little guitar and piano, and I 
 # 📰 News
 
 # 🏆 Honors and Awards
+-	Academic Star, USC-SJTU Institute of Cultural and Creative Industry, 2023 
+-	Dean’s List, University of Southern California, 2021 Fall & 2022 Spring 
+-	Freshman Scholarship (15,000 CNY), Shanghai Jiao Tong University, 2020
+-	Academic Scholarship, Shanghai Jiao Tong University, 2020 
+-	Wharton & Shanghai University Undergraduate Leadership Camp Scholarship, 2019 
+-	Top Academic Scholarship, Shanghai University, 2018 
+-	Innovation Scholarship, Shanghai University, 2018
+- China Scholarship Council (50,000 SEK), Exchange Program at Jönköping University, 2018
 
