@@ -40,4 +40,9 @@ In my free time, I enjoy art and music; I play a little guitar and piano, and I 
 
 # 💻 Professonal Experience
 - *2022.07 – 2022.12* | Fandom · Los Angeles, United States/Remote       | Revenue Strategy & Operations Senior Analyst 
-- *2021.06 – 2022.08* | Boston Consulting Group · Shanghai, China/Hybrid | Part-time Associate  
+- *2021.06 – 2022.08* | Boston Consulting Group · Shanghai, China/Hybrid | Part-time Associate
+
+# 📰 News
+
+# 🏆 Honors and Awards
+
