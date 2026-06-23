@@ -55,7 +55,7 @@ In my free time, I enjoy art and music; I play a little guitar and piano, and I 
 - *Dec 2022*: I presented our paper *Leveraging Subgraph Structure for Exploration and Analysis of Bitcoin Addresses* at the **2022 IEEE International Conference on Big Data**, Osaka, Japan.  
 
 - *Dec 2021*: Our paper *Ethnic Elements in Chinese Cosmetic Brands* received the **Best Paper Award** at the **2021 International Conference on Global Cultural and Creative Industries**, Shanghai, China (presented by my coauthor).
-- 
+  
 
 # 🏆 Honors and Awards
 -	Academic Star, USC-SJTU Institute of Cultural and Creative Industry, 2023 
@@ -67,3 +67,15 @@ In my free time, I enjoy art and music; I play a little guitar and piano, and I 
 -	Innovation Scholarship, Shanghai University, 2018
 - China Scholarship Council (50,000 SEK), Exchange Program at Jönköping University, 2018
 
+# 🎨 Hobbies
+
+In my free time I enjoy art and music. Here are a few of my paintings and moments with the guitar.
+
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 14px; margin-top: 16px;">
+  <img src="{{ '/images/guitar.jpg' | relative_url }}" alt="Playing guitar" style="width: 100%; border-radius: 8px;">
+  <img src="{{ '/images/1.jpg' | relative_url }}" alt="Painting 1" style="width: 100%; border-radius: 8px;">
+  <img src="{{ '/images/2.JPG' | relative_url }}" alt="Painting 2" style="width: 100%; border-radius: 8px;">
+  <img src="{{ '/images/3.JPG' | relative_url }}" alt="Painting 3" style="width: 100%; border-radius: 8px;">
+  <img src="{{ '/images/4.jpg' | relative_url }}" alt="Painting 4" style="width: 100%; border-radius: 8px;">
+  <img src="{{ '/images/5.JPG' | relative_url }}" alt="Painting 5" style="width: 100%; border-radius: 8px;">
+</div>
