@@ -74,8 +74,8 @@ In my free time I enjoy art and music. Here are a few of my paintings and moment
 <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 14px; margin-top: 16px;">
   <img src="{{ '/images/guitar.jpg' | relative_url }}" alt="Playing guitar" style="width: 100%; border-radius: 8px;">
   <img src="{{ '/images/1.jpg' | relative_url }}" alt="Painting 1" style="width: 100%; border-radius: 8px;">
-  <img src="{{ '/images/6.JPG' | relative_url }}" alt="Painting 2" style="width: 100%; border-radius: 8px;">
-  <img src="{{ '/images/3.JPG' | relative_url }}" alt="Painting 3" style="width: 100%; border-radius: 8px;">
+  <img src="{{ '/images/2.JPG' | relative_url }}" alt="Painting 2" style="width: 100%; border-radius: 8px;">
+  <img src="{{ '/images/6.JPG' | relative_url }}" alt="dancing" style="width: 100%; border-radius: 8px;">
   <img src="{{ '/images/4.jpg' | relative_url }}" alt="Painting 4" style="width: 100%; border-radius: 8px;">
   <img src="{{ '/images/5.JPG' | relative_url }}" alt="Painting 5" style="width: 100%; border-radius: 8px;">
 </div>
